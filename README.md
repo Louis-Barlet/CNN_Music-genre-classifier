@@ -24,3 +24,6 @@ I have reproduced the concepts and code in a Jupyter Notebook so that I can run 
 
 ## Credits
 The project is based on the pedagogical content of **Valerio Velardo**'s ‘*Deep Learning for Audio*’ course (*The Sound of AI*).
+
+## Dataset used to train the model
+https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
